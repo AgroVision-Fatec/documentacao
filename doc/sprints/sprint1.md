@@ -1,11 +1,11 @@
-    ## 25/03/2024 até 14/04/2024
+## 25/03/2024 até 14/04/2024
 
 <span id="top">
 
 <h1 align="center">:bookmark: Primeira Entrega - SPRINT 1</h1>
 
 <p align="center">
-     <a href="#goals">Sprint goals</a> &nbsp |&nbsp &nbsp
+     <a href="#goals">Metas de sprint</a> &nbsp |&nbsp &nbsp
      <a href="#burndown">Burndown</a> &nbsp |&nbsp &nbsp
      <a href="#backlogs">Backlogs</a>
 </p>
@@ -42,12 +42,12 @@ Os requisitos propostos para a primeira sprint foram:
 
 ## :crystal_ball: Product e Sprint Backlog
 
-<h1 align="center"> <img src = "doc/imgs/Product and Sprint Backlog.png" /></h1>
+<h1 align="center"> <img src = "https://github.com/AgroVision-Fatec/documentacao/blob/main/doc/imgs/Product%20and%20Sprint%20Backlog.png" /></h1>
 
 ## :flying_saucer: Épicos e User Stories
 
-<h1 align="center"> <img src = "doc/imgs/Critérios e Epicos.png" /></h1>
-<h1 align="center"> <img src = "doc/imgs/Histórias.png" /></h1>
+<h1 align="center"> <img src = "https://github.com/AgroVision-Fatec/documentacao/blob/main/doc/imgs/Crit%C3%A9rios%20e%20Epicos.png" /></h1>
+<h1 align="center"> <img src = "https://github.com/AgroVision-Fatec/documentacao/blob/main/doc/imgs/Hist%C3%B3rias.png" /></h1>
 
 <br>
   
