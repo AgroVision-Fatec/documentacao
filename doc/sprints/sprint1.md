@@ -14,10 +14,11 @@
     
 ## :dart: Metas de sprint
 Os requisitos propostos para a primeira sprint foram:
-- **RF 01:** Organize the data (.csv) provided by the customer.
-- **RF 02:** Model a spatial relational database from Proagro tables.
-- **RF 14:** Create a report with information about the terrain.
-- **RNF 15:** Documentation (Fatec Requirement)
+- **RF 01:** Desenvolvimento de uma interface para cadastro de informações espaciais e alfanuméricas de campo
+- **RF 02:** Desenvolver rotina para armazenamento de informação em banco de dados
+- **RF 03:** Desenvolver aplicação para obtenção de fotos de armadilhas em campo
+- **RNF 12:** Modelagem de Banco de Dados ou Arquivo de dados
+- **RNF 13:** Documentação API – Application Programming Interface
     
 <br>
 
