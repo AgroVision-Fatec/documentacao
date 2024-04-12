@@ -14,13 +14,13 @@
 <hr>
 
 <p align="center"> 
-   <a href="#milky_way-desafio">Desafio</a> •
-   <a href ="#dart-requisitos-do-projeto"> Requisitos </a> •
-   <a href ="#hourglass_flowing_sand-planejamento-de-entregas"> Planejamento </a> •
-   <a href="#date-sprints">Sprints</a> •
-   <a href ="#joystick-tecnologias-usadas"> Tecnologias </a> •
-   <a href ="#bulb-metodologia-usada"> Metodologia </a> •
-   <a href="#crystal_ball-product-e-sprint-backlog">Backlogs</a>
+   <a href="#desafio">Desafio</a> •
+   <a href ="#requisitos"> Requisitos </a> •
+   <a href ="#planejamento"> Planejamento </a> •
+   <a href="#sprints">Sprints</a> •
+   <a href ="#tecnologias"> Tecnologias </a> •
+   <a href ="#metodologia"> Metodologia </a> •
+   <a href="#backlogs">Backlogs</a>
 </p>
 
 <h4 align="center"> 
@@ -60,11 +60,15 @@ Temos como solução o desenvolvimento de um APP mobile que permita:
 
 <br>
 
+<span id="desafio">
+
 ## :milky_way: Desafio
 
 Aplicação mobile para registro e quantificação de pragas em campos agrícolas
 
 <br>
+
+<span id="requisitos">
 
 ## :dart: Requisitos do Projeto
 
@@ -91,6 +95,8 @@ Aplicação mobile para registro e quantificação de pragas em campos agrícola
 
 <br>
 
+<span id="planejamento">
+
 ## :hourglass_flowing_sand: Planejamento de Entregas
 
 <img align="right" width="230" height="200" src="doc/imgs/calendario.png">
@@ -112,7 +118,7 @@ Aplicação mobile para registro e quantificação de pragas em campos agrícola
 
 <br>
 
-<span id="Sprints">
+<span id="sprints">
 
 ## :date: Sprints
 
@@ -128,6 +134,8 @@ Aplicação mobile para registro e quantificação de pragas em campos agrícola
 
 <br>
 
+<span id="tecnologias">
+
 ## :joystick: Tecnologias Usadas
 
 <img align="right" width="218" height="190" src="doc/imgs/contracao-muscular.png">
@@ -138,6 +146,8 @@ Aplicação mobile para registro e quantificação de pragas em campos agrícola
 * **Ferramentas:** Visual Studio Code, GitHub.
 
 <br>
+
+<span id="metodologia">
 
 ## :bulb: Metodologia Usada
 
