@@ -14,13 +14,13 @@
 <hr>
 
 <p align="center"> 
-   <a href="#milky_way-challenge">Desafio</a> •
-   <a href ="#dart-project-requirements"> Requisitos </a> •
-   <a href ="#hourglass_flowing_sand-delivery-planning"> Planejamento </a> •
+   <a href="#milky_way-desafio">Desafio</a> •
+   <a href ="#dart-requisitos-do-projeto"> Requisitos </a> •
+   <a href ="#hourglass_flowing_sand-planejamento-de-entregas"> Planejamento </a> •
    <a href="#date-sprints">Sprints</a> •
-   <a href ="#joystick-technologies-used"> Tecnologias </a> •
-   <a href ="#bulb-methodology-used"> Metodologia </a> •
-   <a href="#crystal_ball-product-and-sprint-backlog">Backlogs</a>
+   <a href ="#joystick-tecnologias-usadas"> Tecnologias </a> •
+   <a href ="#bulb-metodologia-usada"> Metodologia </a> •
+   <a href="#crystal_ball-product-e-sprint-backlog">Backlogs</a>
 </p>
 
 <h4 align="center"> 
@@ -111,6 +111,8 @@ Aplicação mobile para registro e quantificação de pragas em campos agrícola
 > [Trello](https://trello.com/b/QyOUlOmO/visiona-agro-vision)
 
 <br>
+
+<span id="Sprints">
 
 ## :date: Sprints
 
