@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
-<img src ="#" width="250" height="250"/>
+<img src ="doc/imgs/Logo Visiona.svg" width="250" height="250"/>
  </h3>
 <p align="center">
 
@@ -30,31 +30,6 @@
  <a href="https://azure.microsoft.com/pt-br"><img src = "#"/></a>
  <a href="https://flask.palletsprojects.com/en/2.2.x/"><img src = "#"/></a>
 </h4>
-
-<br>
-
-<details>
-	
-<summary>:computer: Configuração do projeto</summary>
-
-
-**Requirements:**
-
-Configuração para rodar o Backend, Frontend e Banco de dados:
-
-```
-git clone ...
-```
-
-- Primeiro faça ...
-
-```
-git pull ...
-```
-
-- Após isso, ...
-
-</details>
 
 <br>
 
@@ -93,33 +68,42 @@ Aplicação mobile para registro e quantificação de pragas em campos agrícola
 
 ## :dart: Requisitos do Projeto
 
-<img align="right" width="200" height="180" src="#">
+<img align="right" width="200" height="180" src="doc/imgs/edicao.png">
 
 **📌 Requisitos Funcionais**
-- ...
-- ...
-- ...
+- Desenvolvimento de uma interface para cadastro de informações espaciais e alfanuméricas de campo;
+- Desenvolver rotina para armazenamento de informação em banco de dados;
+- Desenvolver aplicação para obtenção de fotos de armadilhas em campo;
+- Desenvolver aplicação para localização de informações espaciais, em campo;
+- Desenvolver rotina para mapeamento (IA) de pragas nas armadilhas;
+- Desenvolver Dashboard de indicadores de registro de pragas em armadilhas de campo;
+- Desenvolver API para consumo dos dados produzidos;
+- Desenvolver rotina para sincronismo de dados do APP com banco de dados;
+- Desenvolver uma interface de cadastro cliente;
+- Desenvolver rotina para envio de alertas ao WhatsApp do agricultor.
   
 **📌 Requisitos Não Funcionais**
-- ...
-- ...
-- ...
+- Modelo treinado e desenvolvido para o mapeamento das pragas em armadilhas;
+- Modelagem de Banco de Dados ou Arquivo de dados;
+- Documentação API – Application Programming Interface;
+- Manual do Usuário;
+- Guia de instalação.
 
 <br>
 
 ## :hourglass_flowing_sand: Planejamento de Entregas
 
-<img align="right" width="230" height="200" src="#">
+<img align="right" width="230" height="200" src="doc/imgs/calendario.png">
 
-- [x] [Kickoff](#) - 04/03/2024 to 08/03/2024
+- [x] [Kickoff](#) - 04/03/2024 até 08/03/2024
 
-- [ ] [SPRINT 1](#) - 25/03/2024 to 14/04/2024
+- [ ] [SPRINT 1](#) - 25/03/2024 até 14/04/2024
 
-- [ ] [SPRINT 2](#) - 15/04/2024 to 05/05/2024
+- [ ] [SPRINT 2](#) - 15/04/2024 até 05/05/2024
 
-- [ ] [SPRINT 3](#) - 06/05/2024 to 26/05/2024
+- [ ] [SPRINT 3](#) - 06/05/2024 até 26/05/2024
 
-- [ ] [SPRINT 4](#) - 27/05/2024 to 16/06/2024
+- [ ] [SPRINT 4](#) - 27/05/2024 até 16/06/2024
 
 <br>
 
@@ -130,21 +114,21 @@ Aplicação mobile para registro e quantificação de pragas em campos agrícola
 
 ## :date: Sprints
 
-<img align="right" width="200" height="196" src="#">
+<img align="right" width="200" height="196" src="doc/imgs/app-de-apresentacao-de-slides.png">
 
-🔖 SPRINT 1 ([Folder Link](#)): Em andamento 🚧
+🔖 SPRINT 1 ([Sprint Link](doc/sprints/sprint1.md)): Em andamento 🚧
 
-🔖 SPRINT 2 ([Folder Link](#)): Em espera 🚫
+🔖 SPRINT 2: Em espera 🚫
 
-🔖 SPRINT 3: ([Folder Link](#)): Em espera 🚫
+🔖 SPRINT 3: Em espera 🚫
 
-🔖 SPRINT 4: ([Folder Link](#)): Em espera 🚫
+🔖 SPRINT 4: Em espera 🚫
 
 <br>
 
 ## :joystick: Tecnologias Usadas
 
-<img align="right" width="218" height="190" src="#">
+<img align="right" width="218" height="190" src="doc/imgs/contracao-muscular.png">
 
 * **Banco de dados:** MySQL
 * **Backend:** JavaScript
@@ -163,10 +147,11 @@ Aplicação mobile para registro e quantificação de pragas em campos agrícola
 
 ## :crystal_ball: Product e Sprint Backlog
 
-<h1 align="center"> <img src = "#" /></h1>
+<h1 align="center"> <img src = "doc/imgs/Product and Sprint Backlog.png" /></h1>
 
 ## :flying_saucer: Épicos e User Stories
 
-<h1 align="center"> <img src = "#" /></h1>
+<h1 align="center"> <img src = "doc/imgs/Critérios e Epicos.png" /></h1>
+<h1 align="center"> <img src = "doc/imgs/Histórias.png" /></h1>
 
 <br>
