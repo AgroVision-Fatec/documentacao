@@ -24,11 +24,9 @@
 </p>
 
 <h4 align="center"> 
- <a href="https://www.python.org/"><img src = "#"/></a>
- <a href="https://react.dev/"><img src = "#"/></a>
- <a href="https://www.mysql.com/"><img src = "#"/></a>
- <a href="https://azure.microsoft.com/pt-br"><img src = "#"/></a>
- <a href="https://flask.palletsprojects.com/en/2.2.x/"><img src = "#"/></a>
+ <a href="https://reactnative.dev/"><img src = "https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
+ <a href="https://www.javascript.com/"><img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/></a>
+ <a href="https://www.mysql.com/"><img src = "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/></a>
 </h4>
 
 <br>
