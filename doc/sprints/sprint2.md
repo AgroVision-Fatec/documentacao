@@ -32,7 +32,7 @@ Os requisitos propostos para a primeira sprint foram:
     
 <div align="center">
     
-![Burndown Chart](#)
+![Burndown Chart](https://github.com/AgroVision-Fatec/documentacao/blob/main/doc/imgs/Burndown-Sprint2.jpeg)
 
 </div>
 
