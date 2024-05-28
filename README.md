@@ -105,7 +105,7 @@ Aplicação mobile para registro e quantificação de pragas em campos agrícola
 
 - [x] [SPRINT 2](#) - 15/04/2024 até 05/05/2024
 
-- [ ] [SPRINT 3](#) - 06/05/2024 até 26/05/2024
+- [x] [SPRINT 3](#) - 06/05/2024 até 26/05/2024
 
 - [ ] [SPRINT 4](#) - 27/05/2024 até 16/06/2024
 
@@ -126,9 +126,9 @@ Aplicação mobile para registro e quantificação de pragas em campos agrícola
 
 🔖 SPRINT 2 ([Sprint Link](doc/sprints/sprint2.md)): Concluído ✔️
 
-🔖 SPRINT 3: Em andamento 🚧
+🔖 SPRINT 3: ([Sprint Link](doc/sprints/sprint3.md)): Concluído ✔️
 
-🔖 SPRINT 4: Em espera 🚫
+🔖 SPRINT 4: Em andamento 🚧
 
 <br>
 
